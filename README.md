@@ -1,5 +1,5 @@
 # 💫 About Me:
-👔 Student<br>🌱 Software Engineering Undergrad<br>💻 Frontend Developer<br>
+👔 <b>Student</b><br>🌱 <b>Software Engineering Undergrad</b><br>💻 <b>Frontend Developer</b><br>
 
 [![](https://visitcount.itsvg.in/api?id=therandomuser03&icon=1&color=12)](https://visitcount.itsvg.in)
 
