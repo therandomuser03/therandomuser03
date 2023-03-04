@@ -14,19 +14,10 @@
 
 
 # 📊 GitHub Stats:
-<h2 align="left"></h2>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=therandomuser03" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=therandomuser03" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=therandomuser03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=therandomuser03&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=therandomuser03&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 
