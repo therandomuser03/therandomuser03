@@ -9,22 +9,22 @@
 
 ## 🖱️ Stuffs I made:
 
-| GitHub: |
-|--------|
-| [Sample Form](https://github.com/therandomuser03/html-demo) |
-| [Tribute Page](https://github.com/therandomuser03/html-demo2) |
-| [Analog Clock](https://github.com/therandomuser03/analog-clock) |
-| [Calculator](https://github.com/therandomuser03/calculator) |
-| [Password Generator](https://github.com/therandomuser03/password-generator) |
-| [Weather App](https://github.com/therandomuser03/weather-app) |
-| [Landing Page](https://github.com/therandomuser03/landing-page) |
-| [Tic Tac Toe - Game](https://github.com/therandomuser03/tic-tac-toe) |
+### ⌨ GitHub:
 
+- [Sample Form](https://github.com/therandomuser03/html-demo)
+- [Tribute Page](https://github.com/therandomuser03/html-demo2)
+- [Analog Clock](https://github.com/therandomuser03/analog-clock)
+- [Calculator](https://github.com/therandomuser03/calculator)
+- [Password Generator](https://github.com/therandomuser03/password-generator)
+- [Weather App](https://github.com/therandomuser03/weather-app)
+- [Landing Page](https://github.com/therandomuser03/landing-page)
+- [Tic Tac Toe - Game](https://github.com/therandomuser03/tic-tac-toe)
 
-| Figma [Behance]: |
-|--------|
-| [Snickers - Product Card Design](https://www.behance.net/gallery/165609929/SNICKERS-Product-Card-Design) |
-| [Gaming Mouse - Product UI Design](https://www.behance.net/gallery/165688605/ANT-ESPORTS-GM40-Mouse-Product-UI-Design) |
+### 🎨 Figma [Behance]:
+
+- [Snickers - Product Card Design](https://www.behance.net/gallery/165609929/SNICKERS-Product-Card-Design)
+- [Gaming Mouse - Product UI Design](https://www.behance.net/gallery/165688605/ANT-ESPORTS-GM40-Mouse-Product-UI-Design)
+
 
 
 ## 👨🏻‍💻 Tech Stack:
