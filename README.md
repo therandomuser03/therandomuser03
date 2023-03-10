@@ -17,6 +17,7 @@
 - [Weather App](https://github.com/therandomuser03/weather-app)
 - [Landing Page](https://github.com/therandomuser03/landing-page)
 - [Landing Page - Design (Figma)](https://www.behance.net/gallery/165609929/SNICKERS-Landing-Page-Design)
+- [Tic Tac Toe - Game](https://github.com/therandomuser03/tic-tac-toe)
 
 
 ## 👨🏻‍💻 Tech Stack:
