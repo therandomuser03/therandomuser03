@@ -19,6 +19,7 @@
 - [Weather App](https://github.com/therandomuser03/weather-app)
 - [Landing Page](https://github.com/therandomuser03/landing-page)
 - [Tic Tac Toe - Game](https://github.com/therandomuser03/tic-tac-toe)
+- [To-Do List / Task List](https://github.com/therandomuser03/to-do-list)
 
 ### 🎨 Figma [Behance]:
 
