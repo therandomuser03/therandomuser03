@@ -45,7 +45,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=therandomuser03&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 
-![](https://visitcount.itsvg.in/api?id=therandomuser03&icon=1&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=therandomuser03&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ---
 
