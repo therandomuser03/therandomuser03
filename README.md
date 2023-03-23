@@ -21,6 +21,7 @@
 - [Tic Tac Toe - Game](https://github.com/therandomuser03/tic-tac-toe)
 - [To-Do List / Task List](https://github.com/therandomuser03/to-do-list)
 - [Parallax Scrolling Website](https://github.com/therandomuser03/parallax-scrolling-site)
+- [About Me - Glassmorphism Card](https://github.com/therandomuser03/glassmorphism-card)
 
 ### 🎨 Figma [Behance]:
 
