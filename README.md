@@ -1,5 +1,5 @@
 ## ℹ️ About Me:
-👔 <b>Student</b><br>🌱 <b>Software Engineering Undergrad</b><br>💻 <b>Frontend Developer</b><br>
+👔 <b>Student</b><br>🌱 <b>Software Engineering Undergrad</b><br>💻 <b>Front-End Web Developer</b><br>
 
 
 
