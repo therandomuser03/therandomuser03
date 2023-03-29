@@ -10,6 +10,7 @@
 ## 🖱️ Stuffs I made:
 
 ### ⌨ GitHub:
+##### (Demo Projects / Items)
 
 - [Sample Form](https://github.com/therandomuser03/html-demo)
 - [Tribute Page](https://github.com/therandomuser03/html-demo2)
@@ -22,6 +23,7 @@
 - [To-Do List / Task List](https://github.com/therandomuser03/to-do-list)
 - [Parallax Scrolling Website](https://github.com/therandomuser03/parallax-scrolling-site)
 - [About Me - Glassmorphism Card](https://github.com/therandomuser03/glassmorphism-card)
+- [QR Code Generator](https://github.com/therandomuser03/qr-code-generator)
 
 ### 🎨 Figma [Behance]:
 
