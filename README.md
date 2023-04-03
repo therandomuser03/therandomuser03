@@ -1,3 +1,7 @@
+![](https://user-images.githubusercontent.com/94695669/229570281-fd917fc0-94e0-496a-bdb2-422ff840cb35.png)
+
+
+
 ## ℹ️ About Me:
 👔 <b>Student</b><br>🌱 <b>Software Engineering Undergrad</b><br>💻 <b>Front-End Web Developer</b><br>
 
