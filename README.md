@@ -1,4 +1,5 @@
-![](https://user-images.githubusercontent.com/94695669/229570281-fd917fc0-94e0-496a-bdb2-422ff840cb35.png)
+<img width="1584" alt="linkedin banner" src="https://user-images.githubusercontent.com/94695669/234077234-0e1ca456-5802-4e4f-b4eb-5369b395db03.png">
+
 
 
 
