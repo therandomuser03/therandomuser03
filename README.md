@@ -29,6 +29,7 @@
 - [Parallax Scrolling Website](https://github.com/therandomuser03/parallax-scrolling-site)
 - [About Me - Glassmorphism Card](https://github.com/therandomuser03/glassmorphism-card)
 - [QR Code Generator](https://github.com/therandomuser03/qr-code-generator)
+- [Dropdown Card Menu](https://github.com/therandomuser03/dropdown-menu)
 
 ### 🎨 Figma [Behance]:
 
