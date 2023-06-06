@@ -31,6 +31,9 @@
 - [QR Code Generator](https://github.com/therandomuser03/qr-code-generator)
 - [Dropdown Card Menu](https://github.com/therandomuser03/dropdown-menu)
 
+### React [CodeSandbox]:
+- [Simple Counter](https://github.com/therandomuser03/simple-counter) [(CodeSandbox Link)](https://codesandbox.io/p/github/therandomuser03/simple-counter/main?workspaceId=e4897fe3-90d0-4f7f-9f80-df6bc58dc66d)
+
 ### 🎨 Figma [Behance]:
 
 - [Snickers - Product Card Design](https://www.behance.net/gallery/165609929/SNICKERS-Product-Card-Design)
