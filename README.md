@@ -33,6 +33,7 @@
 
 ### 💻 React [CodeSandbox]:
 - [Simple Counter](https://github.com/therandomuser03/simple-counter) [(CodeSandbox Link)](https://codesandbox.io/p/github/therandomuser03/simple-counter/main?workspaceId=e4897fe3-90d0-4f7f-9f80-df6bc58dc66d)
+- [Uppercase Converter](https://github.com/therandomuser03/uppercase) [(CodeSandbox Link)](https://codesandbox.io/p/github/therandomuser03/uppercase/main?workspaceId=e4897fe3-90d0-4f7f-9f80-df6bc58dc66d)
 
 ### 🎨 Figma [Behance]:
 
