@@ -1,4 +1,4 @@
-<img width="1584" alt="banner" src="https://user-images.githubusercontent.com/94695669/234077234-0e1ca456-5802-4e4f-b4eb-5369b395db03.png">
+<img width="1500" alt="X" src="https://github.com/therandomuser03/therandomuser03/assets/94695669/1a587e42-d587-4d73-ae24-4c5258016a68">
 
 
 
