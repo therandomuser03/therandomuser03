@@ -13,7 +13,7 @@
 
 <br>
 
-## 🖱️ Stuffs I made / Project : [Click Here](https://github.com/therandomuser03/therandomuser03/tree/main/Projects)
+## 🖱️ Stuffs I made / Projects : [Click Here](https://github.com/therandomuser03/therandomuser03/tree/main/Projects)
 
 <br>
 
