@@ -12,12 +12,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/therandomuser03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therandomuser_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therandomuser03) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheRandomUser03) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/TheRandomUser03) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@therandomuser03) 
 
 
-## 🖱️ Stuffs I made / Project:
-[Click Here](https://github.com/therandomuser03/therandomuser03/tree/main/Projects)
+## 🖱️ Stuffs I made / Project: [Click Here](https://github.com/therandomuser03/therandomuser03/tree/main/Projects)
 
 
-## For College (Notes & Syllabus):
-[Click Here](https://github.com/therandomuser03/sem5-notes/tree/main)
+## 📚 For College (Notes & Syllabus): [Click Here](https://github.com/therandomuser03/sem5-notes/tree/main)
 
 
 ## 👨🏻‍💻 Tech Stack:
