@@ -14,8 +14,8 @@
 
 ## 🖱️ My Collaboration / Contribution :
 
-|| [CodersZone](https://github.com/therandomuser03/CodersZone) |
-|| [Personal Finance Manager](https://github.com/therandomuser03/Personal-Finance-Manager) |
+- [CodersZone](https://github.com/therandomuser03/CodersZone)
+- [Personal Finance Manager](https://github.com/therandomuser03/Personal-Finance-Manager)
 
 <br>
 
