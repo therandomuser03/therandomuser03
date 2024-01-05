@@ -19,7 +19,7 @@
 
 <br>
 
-## 📚 For College (Notes & Syllabus) : [Click Here](https://github.com/therandomuser03/sem5-notes/tree/main)
+## 📚 For College (Notes & Syllabus) : [Click Here](https://github.com/therandomuser03/sem6-notes/tree/main)
 
 <br>
 
