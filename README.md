@@ -12,7 +12,7 @@
 
 ### 1. [CodersZone](https://github.com/therandomuser03/CodersZone)
 ### 2. [Personal Finance Manager](https://github.com/therandomuser03/Personal-Finance-Manager)
-### 3. [SignSage](https://github.com/anwesa-sinha/Innovative-project-3)
+### 3. [SignSage](https://github.com/therandomuser03/signsage)
 
 <br>
 
