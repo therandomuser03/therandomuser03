@@ -8,15 +8,11 @@
 
 <br>
 
-## 🖱️ Stuffs I made / Projects : [Click Here](https://github.com/therandomuser03/therandomuser03/tree/main/Projects)
+## 🖱️ My Collaboration / Contribution / Projects :
 
-<br>
-
-## 🖱️ My Collaboration / Contribution :
-
-- [CodersZone](https://github.com/therandomuser03/CodersZone)
-- [Personal Finance Manager](https://github.com/therandomuser03/Personal-Finance-Manager)
-- [SignSage](https://github.com/anwesa-sinha/Innovative-project-3)
+#### 1. [CodersZone](https://github.com/therandomuser03/CodersZone)
+#### 2. [Personal Finance Manager](https://github.com/therandomuser03/Personal-Finance-Manager)
+#### 3. [SignSage](https://github.com/anwesa-sinha/Innovative-project-3)
 
 <br>
 
