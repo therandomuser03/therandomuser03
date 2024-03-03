@@ -13,7 +13,7 @@
 | Project Name | Role | Time |
 | ------------ | ---- | ---- |
 | [CodersZone](https://github.com/therandomuser03/CodersZone) | Designer | Nov 2022 |
-| [Expanseo](https://github.com/therandomuser03/Personal-Finance-Manager) | Frontend | Apr 2023 |
+| [Expanseo](https://github.com/therandomuser03/Personal-Finance-Manager) | Designer | Apr 2023 |
 | [SignSage](https://github.com/therandomuser03/signsage) | Designer & Frontend | Nov 2023 |
 | [PinPoint](https://github.com/therandomuser03/PinPoint) | Designer | Feb 2024 |
 
