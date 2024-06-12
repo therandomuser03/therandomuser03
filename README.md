@@ -4,7 +4,19 @@
 
 
 ## ℹ️ About Me :
-👔 <b>Student</b><br>🌱 <b>Software Engineering Undergrad</b><br>💻 <b>Front-End Web Developer</b><br>
+👔 <b>Student</b><br>🌱 <b>Software Engineering Undergrad</b><br>💻 <b>Front-End Web Developer | UI/UX Designer</b><br>
+
+<br>
+
+## 🛠️ Tech Stack :
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+![Python3](https://img.shields.io/badge/Python3-%233776AB.svg?logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?logo=adobe-premiere-pro&logoColor=white)
 
 <br>
 
@@ -17,7 +29,7 @@
 | [SignSage](https://github.com/therandomuser03/signsage) | Designer & Frontend | Nov 2023 |
 | [PinPoint](https://github.com/therandomuser03/PinPoint) | Designer | Feb 2024 |
 
-<br>
+<br><br>
 
 | Project Name | Link |
 | ------------ | ---- |
@@ -26,9 +38,9 @@
 | To-Do List | [Click Here](https://github.com/therandomuser03/to-do-list) |
 | Tic Tac Toe | [Click Here](https://github.com/therandomuser03/tic-tac-toe) |
 
-<br>
+<br><br>
 
-## 📚 For College (Notes & Syllabus) : [Click Here](https://github.com/therandomuser03/sem6-notes/tree/main)
+<!-- ## 📚 For College (Notes & Syllabus) : [Click Here](https://github.com/therandomuser03/sem6-notes/tree/main) -->
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=therandomuser03&icon=1&color=12)](https://visitcount.itsvg.in) -->
@@ -37,8 +49,6 @@
 
 ## 🌐 Socials :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/therandomuser03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therandomuser_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therandomuser03) [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://twitter.com/TheRandomUser03) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/TheRandomUser03) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@therandomuser03) 
-
-<br>
 
 ---
 
