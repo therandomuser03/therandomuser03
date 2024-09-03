@@ -13,10 +13,16 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 ![Python3](https://img.shields.io/badge/Python3-%233776AB.svg?logo=python&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?logo=adobe-premiere-pro&logoColor=white)
+
 
 <br>
 
