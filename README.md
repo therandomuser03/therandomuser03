@@ -21,7 +21,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=nodedotjs&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?logo=adobe-premiere-pro&logoColor=white)
 
 
 <br>
