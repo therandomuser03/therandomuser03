@@ -35,8 +35,9 @@
 | [SignSage](https://github.com/therandomuser03/signsage) | Designer & Frontend | Nov 2023 |
 | [PinPoint](https://github.com/therandomuser03/PinPoint) | Designer | Feb 2024 |
 
-<br><br>
+<br><be>
 
+<!--
 | Project Name | Link |
 | ------------ | ---- |
 | Weather App | [Click Here](https://github.com/therandomuser03/weather-app) |
@@ -45,6 +46,7 @@
 | Tic Tac Toe | [Click Here](https://github.com/therandomuser03/tic-tac-toe) |
 
 <br><br>
+-->
 
 <!-- ## 📚 For College (Notes & Syllabus) : [Click Here](https://github.com/therandomuser03/sem6-notes/tree/main) -->
 
