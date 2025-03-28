@@ -85,10 +85,9 @@ I'm a passionate Software Engineer who transforms ideas into elegant digital exp
 
 ## 📊 GitHub Analytics
 
-<div align=center>
-    <img src="profile-3d-contrib/profile-night-green.svg" width="75%" alt="Profile 3D Contrib">
+<div align=left>
+    <img align=center src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="Profile 3D Contrib">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therandomuser03&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therandomuser03&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0D1117" />
 </div>
 
 <br>
