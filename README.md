@@ -23,7 +23,7 @@
 
 I'm a passionate Software Engineer who transforms ideas into elegant digital experiences. With a keen eye for design and a love for clean, efficient code, I build applications that solve real-world problems while providing exceptional user experiences.
 
-- 🔭 Currently : Advancing my **React JS skills** and learning new tech stacks
+- 🔭 Currently : Advancing my **React & Next.js skills** and learning new tech stacks
 - 🌱 Learning: **Advanced State Management** and **Micro Frontend Architecture**
 - 🚀 Goal for 2025: Contribute to **5+ major open-source projects**
 - 💬 Let's talk about: **Frontend frameworks**, **UI/UX principles**, or **design systems**
