@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Anubhab
 
-I am a **frontend web developer** who enjoys building real-world software products with a focus on **clean UI, performance, and collaboration**, currently exploring the boundaries of modern web development with tools like **Next.js, Supabase, TipTap, MongoDB, Prisma**, and more.
+I am a **fullstack web developer** who enjoys building real-world software products with a focus on **clean UI, performance, and collaboration**, currently exploring the boundaries of modern web development with tools like **Next.js, Supabase, TipTap, MongoDB, Prisma**, and more.
 
 I'm open to **freelance projects**, **product engineering roles**, and **collaborative OSS contributions**. Whether it's crafting user experiences, shipping fast MVPs, or scaling robust systems — I’m always eager to **learn, mentor**, and contribute wherever I can add value.
 
