@@ -1,15 +1,16 @@
 # 👋 Hi there, I am Anubhab
 
-I am a **fullstack web developer** who enjoys building real-world software products with a focus on **clean UI, performance, and collaboration**, currently exploring the boundaries of modern web development with tools like **Next.js, Supabase, TipTap, MongoDB, Prisma**, and more.
+I am an **AI-Augmented Full-Stack Developer** who enjoys building real-world software products with a focus on **clean UI, performance, and collaboration**, currently exploring how **AI and data systems** can enhance modern web experiences.  
+I work primarily with **Next.js, Supabase, Prisma, and FastAPI**, and I’m learning to integrate **LangChain**, **Airflow**, and other tools to bring intelligence into applications.
 
-I'm open to **freelance projects**, **product engineering roles**, and **collaborative OSS contributions**. Whether it's crafting user experiences, shipping fast MVPs, or scaling robust systems — I’m always eager to **learn, mentor**, and contribute wherever I can add value.
+I'm open to **freelance projects**, **product engineering roles**, and **collaborative OSS contributions**. Whether it's crafting user experiences, shipping fast MVPs, or scaling robust systems, I’m always eager to **learn, mentor**, and contribute wherever I can add value.
+
 
 <p align="left">
-  <a href="https://anubhab.tech" target="_blank">
+  <a href="https://anubhab.site" target="_blank">
     <img src="https://raw.githubusercontent.com/therandomuser03/therandomuser03/main/connect.png" width="160">
   </a>
 </p>
-
 
 
 ## 🛠️ Tech Stack & Skills
@@ -47,11 +48,14 @@ I'm open to **freelance projects**, **product engineering roles**, and **collabo
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
 <!-- Auth / Infra -->
 
 <img src="https://img.shields.io/badge/Clerk-3A0CA3?style=flat&logo=clerk&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
@@ -77,7 +81,6 @@ I'm open to **freelance projects**, **product engineering roles**, and **collabo
     </tr>
   </tbody>
 </table>
-
 
 <!--
 ## 🏆 Achievements & Community
