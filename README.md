@@ -1,6 +1,6 @@
 # 👋 Hello! I am Anubhab
 
-AI-Augmented Full-Stack Developer. I build web products — clean code, thoughtful UI, and a growing obsession with AI.
+Software Engineer. I build web products — clean code, thoughtful UI, and a growing obsession with AI.
 
 - Full-stack apps with Next.js, React, TypeScript, Node.js, Prisma & FastAPI
 - Interested in AI workflows, LLMs, and intelligent developer tools
